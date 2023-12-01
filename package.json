@@ -1,0 +1,27 @@
+{
+  "name": "open-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
+
+
+// .git file ko delete kr
+// filemanager khol -> 1 min
+ussi dost ka phone aaya hai jo intervieway okay questions bta rha haiok
+tb tk check kr okk
+repo ka command paste kro
+
+
+.git folder delete->
